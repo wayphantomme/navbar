@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Krono Finance Navbar
 
 A clean and responsive navigation bar built using **HTML** and **CSS**, designed for modern websites like **Krono Finance**.  
