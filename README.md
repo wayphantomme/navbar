@@ -1,4 +1,4 @@
-# 🚀 Krono Finance Navbar
+# Krono Finance Navbar
 
 A clean and responsive navigation bar built using **HTML** and **CSS**, designed for modern websites like **Krono Finance**.  
 This project focuses on minimal layout, centered logo alignment, and smooth hover effects for navigation links.
@@ -53,14 +53,6 @@ navbar/
 
 ---
 
-## 🖼 Preview
-
-<img src="https://github.com/wayphantomme/navbar/raw/main/preview.png" width="700" alt="Navbar Preview">
-
-> *(optional)* You can add a screenshot of your navbar here — name it `preview.png` and place it in your repo.
-
----
-
 ## 🧠 Future Improvements
 
 * Add responsive mobile menu (hamburger)
@@ -73,7 +65,7 @@ navbar/
 ## 👨‍💻 Author
 
 **Wayan Phantom Megaditha**
-Founder of [Megatha Tech](https://megathatech.com)
+Founder of [Megatha Tech]
 Building digital experiences with design, code, and creativity 💙
 
 🔗 [GitHub](https://github.com/wayphantomme) • [X / Twitter](https://x.com/wayphantomme)
